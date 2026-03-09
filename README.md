@@ -86,6 +86,20 @@ Configured policies include:
 * CodeBlocks installation
 * SQL software installation
 
+## Script Files
+
+install-vscode.bat  
+scripts/install-vscode.bat
+
+install_codeblocks.bat  
+scripts/install_codeblocks.bat
+
+install_sqlite3.bat  
+scripts/install_sqlite3.bat
+
+firewall-config.bat  
+scripts/firewall-config.bat
+
 These policies automatically apply when users log in or when computers join the domain.
 
 ---
