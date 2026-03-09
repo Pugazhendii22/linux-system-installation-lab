@@ -231,9 +231,3 @@ Possible improvements for this lab environment include:
 * Implement Active Directory security auditing
 
 ---
-
-## Author
-
-Pugazhendi Pugal
-BCA (Computer Science) Student
-Christ Arts and Science College, Puducherry
