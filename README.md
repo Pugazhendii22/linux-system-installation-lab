@@ -160,25 +160,25 @@ These scripts allow automatic installation of required tools on student computer
 
 ## Screenshots
 
-Server Manager Dashboard
-screenshots/server-manager.png
+### Server Manager Dashboard
 
-Active Directory Users and Computers
-screenshots/active-directory.png
+![Server Manager](screenshots/server-manager.PNG)
 
-Group Policy Configuration
-screenshots/group-policy.png
+### Active Directory Users and Computers
 
-Client Domain Join
-screenshots/client-domain.png
+![Active Directory](screenshots/active-directory.PNG)
 
-Domain Login Screen
-screenshots/client-login.png
+### Group Policy Configuration
 
-Client DNS Configuration
-screenshots/client-dns.png
+![Group Policy](screenshots/group-policy.PNG)
 
----
+### Client Domain Join
+
+![Client Domain](screenshots/client-domain.png)
+
+### Client DNS Configuration
+
+![Client DNS](screenshots/client-dns.png)
 
 ## Problems Faced During Setup
 
