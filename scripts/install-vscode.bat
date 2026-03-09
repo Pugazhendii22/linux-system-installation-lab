@@ -4,7 +4,7 @@ echo. > C:\install_log.txt
 echo ===== START ===== >> C:\install_log.txt
 
 REM Connect to network share
-net use \\192.168.0.121\software /user:CHRIST\Administrator CHRIST@12345 >> C:\install_log.txt 2>&1
+net use \\192.168.0.121\software /user:CHRIST\Administrator admin_password >> C:\install_log.txt 2>&1
 
 REM Test access
 dir \\192.168.0.121\software >> C:\test_access.txt 2>&1
